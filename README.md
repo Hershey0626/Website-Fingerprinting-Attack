@@ -1,4 +1,3 @@
-# Website-Fingerprinting-Attack
 # AI-Driven Website Fingerprinting Attacks in a Closed-World Environment
 
 An artificial intelligence framework designed to evaluate website fingerprinting attacks against encrypted network traffic. By leveraging a 1D-Convolutional Neural Network (1D-CNN), this project demonstrates how metadata side-channels (packet direction sequences) compromise user privacy, even when using secure protocols.
